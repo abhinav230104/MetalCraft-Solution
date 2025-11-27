@@ -111,11 +111,11 @@ function Footer() {
           {/*/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". *** /*/}
           Designed By{" "}
           <a className="fw-semi-bold" href="https://htmlcodex.com">
-            HTML Codex
+            Sattva Soul
           </a>{" "}
           Distributed by{" "}
           <a href="https://themewagon.com" target="_blank">
-            ThemeWagon
+            Sattva Soul
           </a>
         </div>
       </div>
